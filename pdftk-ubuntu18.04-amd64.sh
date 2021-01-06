@@ -1,9 +1,6 @@
 #!/bin/bash
 # Reference: https://askubuntu.com/a/1046476
 
-# change to /tmp directory
-cd /tmp
-
 # download packages
 curl -o /tmp/libgcj17_6.4.0-8ubuntu1_amd64.deb -L http://launchpadlibrarian.net/340410966/libgcj17_6.4.0-8ubuntu1_amd64.deb
 curl -o /tmp/libgcj-common_6.4-3ubuntu1_all.deb -L http://launchpadlibrarian.net/337429932/libgcj-common_6.4-3ubuntu1_all.deb
