@@ -1,4 +1,5 @@
 #!/bin/bash
+# Required gcc-6-base package installed
 # Reference: https://askubuntu.com/a/1046476
 
 # download packages
